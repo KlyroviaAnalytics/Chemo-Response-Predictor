@@ -1,4 +1,4 @@
-# 💊 Personalized Drug Response Prediction (IC50 Estimation)
+# 💊 Personalized Chemotherapy Response Prediction using Genomics + Drug Metadata (GDSC) (IC50 Estimation)
 
 This project predicts the **drug response (IC50 value)** for various cancer cell lines using **genomics-based metadata** like **tissue type, TCGA classification, drug concentration, Z-score**, and more.
 
